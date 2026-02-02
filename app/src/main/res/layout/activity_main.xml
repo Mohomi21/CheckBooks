@@ -72,6 +72,15 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
+        android:id="@+id/btnOut"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="96dp"
+        android:text="Exit"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@id/btnAdd" />
+
+    <Button
         android:id="@+id/btnView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -88,7 +97,7 @@
         android:layout_marginEnd="56dp"
         android:layout_marginBottom="480dp"
         android:ems="10"
-        android:inputType="numberDecimal"
+        android:inputType="textPersonName"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
@@ -99,7 +108,7 @@
         android:layout_marginEnd="60dp"
         android:layout_marginBottom="376dp"
         android:ems="10"
-        android:inputType="numberDecimal"
+        android:inputType="textPersonName"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
@@ -121,7 +130,7 @@
         android:layout_marginEnd="64dp"
         android:layout_marginBottom="180dp"
         android:ems="10"
-        android:inputType="numberDecimal"
+        android:inputType="textMultiLine"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
