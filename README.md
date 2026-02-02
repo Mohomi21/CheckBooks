@@ -43,23 +43,26 @@ Screen2 (Screen2)
   - `btnRating` (labeled "Rating") — computes and shows the average rating in a Toast.
   - `btnBack` — returns to the main screen.
 
-Screenshots (placeholders)
+Screenshots 
 --------------------------
 
 
-Main screen UI (placeholder):
+Main screen UI :
 ![Main screen screenshot](<img width="703" height="535" alt="ma1" src="https://github.com/user-attachments/assets/bbbb5142-51b9-4838-a745-ffc4030b6bf7" />
 )
 
 Main screen while running :
-![Main running screenshot - Main](screenshots/main_running.png)
+![Main running screenshot - Main]!<img width="1005" height="594" alt="error" src="https://github.com/user-attachments/assets/e52e944e-a611-4b8e-b1a1-9023be3e483c" />
+
+
 
 Screen2 UI :
 ![Screen2 UI screenshot](<img width="668" height="509" alt="ma2" src="https://github.com/user-attachments/assets/49b57193-54ec-47b0-95f7-50a56df735d4" />
 )
 
 Screen2 while running (:
-![Screen2 running screenshot](screenshots/screen2_running.png)
+![Screen2 running screenshot] <img width="1005" height="594" alt="image" src="https://github.com/user-attachments/assets/8984ce6d-71e6-4b71-adfd-cda8f64df926" />
+
 
 Tips for taking screenshots
 - On emulator: use Android Studio's emulator screenshot tool (three-dot menu → Screenshot) and save the PNG into `screenshots/`.
