@@ -1,4 +1,4 @@
-# ThemBooks (CheckBooks)
+# CheckBooks Apllication ST10439290
 
 Simple beginner Kotlin Android app to store book details, allow ratings and comments. This project uses four parallel mutable lists (title, author, rating, comment) in a singleton `BookStore` object.
 
