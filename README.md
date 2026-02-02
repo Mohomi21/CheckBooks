@@ -82,3 +82,6 @@ Next steps / improvements
 -------------------------
 - Improve layouts (constraints, margins) and add a custom item layout for RecyclerView to show nicer cards.
 - Would be better to have some sort of built in ai that tells you in-depth descriptions about the books
+
+Repo link
+  -------------------------
