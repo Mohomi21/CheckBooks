@@ -48,20 +48,22 @@ Screenshots
 
 
 Main screen UI :
-![Main screen screenshot](<img width="703" height="535" alt="ma1" src="https://github.com/user-attachments/assets/bbbb5142-51b9-4838-a745-ffc4030b6bf7" />
+<img width="703" height="535" alt="ma1" src="https://github.com/user-attachments/assets/e863d67a-69f6-49f4-9b78-ea9a2c9eb652" />
+
 )
 
 Main screen while running :
-![Main running screenshot - Main]!<img width="1005" height="594" alt="error" src="https://github.com/user-attachments/assets/e52e944e-a611-4b8e-b1a1-9023be3e483c" />
+<img width="1005" height="594" alt="error" src="https://github.com/user-attachments/assets/e52e944e-a611-4b8e-b1a1-9023be3e483c" />
 
 
 
 Screen2 UI :
-![Screen2 UI screenshot](<img width="668" height="509" alt="ma2" src="https://github.com/user-attachments/assets/49b57193-54ec-47b0-95f7-50a56df735d4" />
+<img width="668" height="509" alt="ma2" src="https://github.com/user-attachments/assets/226371d2-3c3e-45e7-95c7-2fd81da7bf1f" />
+
 )
 
 Screen2 while running (:
-![Screen2 running screenshot] <img width="1005" height="594" alt="image" src="https://github.com/user-attachments/assets/8984ce6d-71e6-4b71-adfd-cda8f64df926" />
+<img width="1005" height="594" alt="image" src="https://github.com/user-attachments/assets/8984ce6d-71e6-4b71-adfd-cda8f64df926" />
 
 
 Tips for taking screenshots
